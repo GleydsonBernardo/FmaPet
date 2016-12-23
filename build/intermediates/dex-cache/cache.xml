@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_889f9a92226c96a6675b7f0ec75ba78bb4b3debb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_d6379cf2784110256b725aeff9a8cc430999f439\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fae5dbe819b932acca9cd188d6cdcb9757a5248a">
+        <dex dex="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_76bab2a3b8c9006a57defdcab660445173a53c34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_9713694260a61262f19ec3754497638ce973a4ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_28d39b93b628de3101e843ee8c7fd447dabb8163\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_9d2daf87ca8ea35edb1d94ca8a3ade00bcb927db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d04eb40861e434809a9a863c71f147a5e8cf52c2">
+        <dex dex="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_730ea4e21808e474128d29ad4c416a7e6cea56ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_dd2e155e61fb622b5d1a46f0da030981b9f1314c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_2fafa4e3a765cc3a0447d580c5cbbb0bce3654d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eduardo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_4881e344442cf106a5b0cbbe8fc0a900d55de56e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_685b1ad136ac05b0ceec90dd4b3a55af5d95db49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_e743d5619ba51942b47aa982f2396e4ddbf37651\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_2c9782796ee6abc8cf04a41eb17b764c1c909697\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_11ca952f673cdc3632106c88ba58c46f632469ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_77b8836ada8d0e10337923a6c6a8cb6f5c86f8dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_6f7d11fdef900693cae6225bdfabfabd2b4bedce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_727c27bae4a2583b3c8bc7a04380c5c092a4c66f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.8.0_bfa4cbc1acfd6e6a10294e1de06ba6499964bb0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_f979963d7b663fbf570d1a603b3e4b756da58aea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_fb02d710e84c8485b3f91fc1c9a54243b0d3e2e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.8.0_49e699d642467819202c79103ac207c77d8e8b82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_223eb745650b8ed617f42b80554a542ffecfda9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_5154b58367c4bb9f77d2297a5685c5ee1ce8c610\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_8d95dc1dd1f80f63172c758ba1d5382a267bd1c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\Eduardo\Documents\Projetos\hellpet\FmaPet\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_b227d09ffbbe1c4f225f9ea199188294581223a4\classes.dex" />
+    </item>
+
+</items>
