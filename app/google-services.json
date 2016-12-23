@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "991541777703",
+    "firebase_url": "https://fmapet-bb459.firebaseio.com",
+    "project_id": "fmapet-bb459",
+    "storage_bucket": "fmapet-bb459.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991541777703:android:d44050b010835017",
+        "android_client_info": {
+          "package_name": "br.com.steeldevelopers.fmapet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991541777703-r2j607c1bc6blfjvdjeav9n1crelmgjk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.steeldevelopers.fmapet",
+            "certificate_hash": "430DE63D981B2DA9A10455880410B2E569653547"
+          }
+        },
+        {
+          "client_id": "991541777703-s69drk3hatpl5dnlhgb83g79cmrgtrp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJe7Eyj3YkpddXV7V2Z83qzhs0ykZ8Ddc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991541777703-s69drk3hatpl5dnlhgb83g79cmrgtrp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
